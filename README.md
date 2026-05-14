@@ -101,7 +101,7 @@
   <h2>Über uns</h2>
   <p>
     Wir sind ein gemütliches Café im Herzen der Stadt. 
-    Frischer Kaffee, hausgemachte Kuchen und eine warme Atmosphäre.
+    Frischer Kaffee, hausgemachte Kuchen und eine warme Atmosphäre. alles für dein lächel
   </p>
 
   <div class="features">
